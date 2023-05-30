@@ -13,7 +13,6 @@ Welcome to my portfolio! This repository contains an overview of my skills, expe
 - Portfolio Website: [Your Portfolio Website URL]
 
 ## Skills
-
 - Programming Languages: [List of Programming Languages]
 - Web Development: [List of Web Development Technologies]
 - Databases: [List of Database Technologies
