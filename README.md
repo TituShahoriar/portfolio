@@ -16,7 +16,7 @@ Welcome to my portfolio! This repository contains an overview of my skills, expe
 
 - Programming Languages: [List of Programming Languages]
 - Web Development: [List of Web Development Technologies]
-- Databases: [List of Database Technologies]
+- Databases: [List of Database Technologies
 - Other Skills: [Other Relevant Skills]
 
 ## Projects
