@@ -18,7 +18,7 @@ Welcome to my portfolio! This repository contains an overview of my skills, expe
 - Databases: [List of Database Technologies
 - Other Skills: [Other Relevant Skills]
 
-## Projects
+## Project
 
 ### Project 1
 
