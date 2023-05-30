@@ -22,7 +22,7 @@ Welcome to my portfolio! This repository contains an overview of my skills, expe
 
 ### Project 1
 
-- Description: [Brief description of your project]
+- Description: [Brief description of your project
 - Technologies: [Technologies used in the project
 - GitHub Repository: [Link to the GitHub repository]
 - Live Demo: [Link to the live demo, if applicable]
